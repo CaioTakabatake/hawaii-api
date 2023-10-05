@@ -1,0 +1,23 @@
+{
+  "name": "Senai - Festa do Havaí",
+  "local": "SENAI",
+  "data": "07 de Outubro de 2023",
+  "horario": "16:00 - 21:00",
+  "valor": "R$ 10,00",
+  "atracoes": [
+    "Xavequinho",
+    "Boca do Palhaço",
+    "Scape Room",
+    "Cama Elástica",
+    "Chute ao Gol"
+  ],
+  "barracas_comida": [
+    "Espetinho",
+    "Pastel",
+    "Cachorro Quente",
+    "Cerveja",
+    "Refrigerante",
+    "Água",
+    "Sorvete"
+  ]
+}
